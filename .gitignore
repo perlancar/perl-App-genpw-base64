@@ -2,3 +2,4 @@ App-genpw-base64-*
 .build
 *~
 nytprof*
+.DS_Store
